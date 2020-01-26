@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Baskervville&display=swap:100,200,300,400');
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Ibarra+Real+Nova&display=swap');
+
+body {
+	margin: 0;
+	padding: 0;
+	color: rgb(64, 64, 64);
+
+}
