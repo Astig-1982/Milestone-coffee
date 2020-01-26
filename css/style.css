@@ -321,6 +321,118 @@ body {
 
 /* Products page ends here */
 
+/* Contact-Us page starts here */
+
+#h2 {
+	margin-left: 3%;
+	margin-top: 3%;
+	font-family: 'Ibarra Real Nova', sans-serif;
+	font-size: 45px;
+	font-weight: 900;
+	letter-spacing: 5px;
+}
+
+@media (max-width: 576px) {
+	#h2 {
+		text-align: center;
+	}
+}
+
+.contact-us {
+	min-height: 600px;
+	min-width: 100%;
+	border-bottom: 1px solid grey;
+	margin: 0;
+	padding: 0;
+}
+
+
+
+@media (min-width:  992px) {
+	.contact-us {
+		max-height: 600px;
+		border: 1px solid grey;
+		border-right: 0;
+		border-left: 0;
+	}
+}
+
+
+
+.form-page {
+	box-sizing: border-box;
+	margin-left: 3%;
+}
+
+.contact-form {
+	font-family: Baskervville, sans-serif;
+	font-size: 21px;
+	margin-top: 2%;
+	box-sizing: border-box;
+}
+
+.contact-form label {
+	margin-bottom: 0;
+	font-weight: 500;
+	letter-spacing: 4px;
+}
+
+.contact-us-form {
+	width: 30vw;
+	height: 35px;
+	background-color: rgb(222, 224, 224);
+	margin-bottom: 15px;
+	border: 1px solid grey;
+	border-radius: 3%;
+}
+
+
+
+@media (max-width: 992px) {
+	.contact-us-form {
+		width: 94vw;
+
+	}
+}
+
+@media (min-width: 993px) and (max-width: 1024px) {
+	.contact-us-form {
+		width: 50vw;
+
+	}
+}
+
+
+
+
+.submit-button {
+	width: 100px;
+	background-color: rgb(35, 84, 22);
+	border: none;
+	margin:0 auto;
+	transition-property: background-color;
+	transition-duration: 0.3s;
+	transition-timing-function: ease-in-out;
+}
+
+
+@media (max-width: 576px) {
+	.submit-button {
+		width: 50vw;
+		margin: 0 auto;
+	}
+}
+
+
+
+
+.submit-button:hover {
+	border: none;
+	background-color: rgb(46, 112, 28);
+}
+
+/* Contact page ends here */
+
 
 
 
