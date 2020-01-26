@@ -433,6 +433,38 @@ body {
 
 /* Contact page ends here */
 
+/* Social page starts here */
+
+
+.social {
+	min-height: 150px;
+	min-width: 100%;
+	border-bottom: 1px solid grey;
+	margin: 0;
+	padding: 0;
+}
+
+.social-page {
+	text-align: center;
+	margin-top: 5%;
+}
+
+.social-icons span {
+	font-size: 300%;
+	color: rgba(64, 64, 64, 0.9);
+}
+
+.social-icons span:hover {
+	position: relative;
+	bottom: 3px;
+}
+
+@media (max-width: 576px) {
+	.social-icons span{
+		display: inline-block;
+	}
+}
+
 
 
 
