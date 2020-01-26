@@ -142,5 +142,44 @@ body {
 
 /* landing page finishes here */
 
+/* about page starts here */
+
+.about {
+	min-height: 600px;
+	min-width: 100%;
+	border-bottom: 1px solid grey;
+	
+}
+
+
+
+.coffee-cup {
+	font-size: 25px;
+	text-align: center;
+	display: block;
+	margin: auto;
+}
+
+.our-business {
+	margin-top: 5%;
+	margin-left: 1.8%;
+
+}
+
+.our-business p {
+	font-family: Baskervville, sans-serif;
+	letter-spacing: 5px;
+	font-size: 120%;
+	word-break: break-all;
+	line-height: 35px;
+}
+
+.our-business i {
+	font-size: 250%;
+	margin-bottom: 16px;
+}
+
+/* about page ends here */
+
 
 
