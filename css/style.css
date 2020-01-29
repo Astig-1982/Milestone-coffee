@@ -42,7 +42,7 @@ body {
 .col-navigation {
 	padding-top: 2%;
 	padding-bottom: 1%;
-	background: rgba(0,0,0,.4);
+	background: rgba(0,0,0,.6);
 	position: fixed;
 	z-index: 3000;
 	box-sizing: border-box;
@@ -61,7 +61,7 @@ body {
 }	
 
 .navigation-items:hover {
-    color: red);
+    color: rgb(201, 4, 4);
 	text-decoration: none;
 	font-weight: 900;
 }
@@ -248,6 +248,7 @@ body {
 	font-family: 'Ibarra Real Nova', sans-serif;
 	color: #ffffff;
 	font-size: 30px;
+    border: 1px solid #ffffff;
 }
 
 .overlay {
@@ -283,16 +284,21 @@ body {
 	font-family: Baskervville, sans-serif;
 	color: #ffffff;
 	word-wrap: break-all; 
+    text-transform: capitalize;
 }
 
-#order-button {
+.order-button {
 	font-size: 20px;
 	text-decoration: none;
 	color: #ffffff;
+    border: 1px solid #ffffff;
+    padding: 5px;
 }
 
-#order-button:hover {
-	color: red;
+.order-button:hover {
+	color: rgb(201, 4, 4);
+    border: 1px solid rgb(201, 4, 4);
+    text-decoration: none;
 }
 
 /* Products page ends here */
