@@ -19,8 +19,8 @@ body {
 	min-width: 100%;
 	border: 0.1px solid white;
     box-sizing: border-box;
-	background-image: url(https://www.comunicaffe.com/wp-content/uploads/2015/01/office-coffee2.jpg);
-	background-color: rgba(255,255,255,0.4);
+	background-image: url(https://colonialcoffee.com/wp-content/uploads/2015/10/office-coffee-service-top.jpg);
+	background-color: rgba(255,255,255,0.3);
     background-blend-mode: lighten;
 	background-repeat: no-repeat;
 	background-position: center;
@@ -62,7 +62,7 @@ body {
 
 .navigation-items:hover {
     color: #ffffff;
-    opacity: .5;
+    opacity: .2;
 	text-decoration: none;
 	font-weight: 900;
 }
@@ -77,8 +77,10 @@ body {
 .main-title {
 	text-align: center;
 	position: relative;
-	top: 280px;
+	top: 260px;
 }
+
+
 
 .title {
     font-size: 220%;
@@ -94,9 +96,17 @@ body {
 }
 
 .title h2 {
-	word-spacing: 8px;
+	word-spacing: 5px;
 	letter-spacing: 10px;
 }
+
+/*
+
+.title span {
+    letter-spacing: 5px;
+}
+
+*/
 
 .large-button {
 	text-align: center;
@@ -111,7 +121,7 @@ body {
 	padding-right: 5px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	background-color: rgb(34, 92, 18);
+	background-color: rgb(12, 51, 2);
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
@@ -180,7 +190,7 @@ body {
 .layout-products {
 	width: 100%;
 	min-height: 600px;
-	background-color: rgb(220, 224, 227);
+	background-color: rgba(209, 196, 138, .6);
 	padding: 0;
 	margin: 0;
 }
