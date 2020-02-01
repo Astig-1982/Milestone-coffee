@@ -281,6 +281,16 @@ body {
     text-transform: capitalize;
 }
 
+@media (max-width: 576px) {
+    .text {
+        font-size: 20px;
+    }
+    .text .order-button {
+        position: relative;
+        top: 20px;
+    }
+}
+
 .order-button {
 	font-size: 20px;
 	text-decoration: none;
