@@ -376,7 +376,7 @@ body {
 .contact-us-form {
 	width: 30vw;
 	height: 35px;
-	background-color: rgb(222, 224, 224);
+	background-color: rgba(209, 196, 138, .6);
 	margin-bottom: 15px;
 	border: 1px solid grey;
 	border-radius: 3%;
