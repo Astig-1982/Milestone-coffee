@@ -513,7 +513,7 @@ body {
 
 .social-icons span:hover {
 	position: relative;
-	bottom: 3px;
+	bottom: 4px;
 }
 
 @media (max-width: 576px) {
