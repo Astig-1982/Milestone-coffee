@@ -100,6 +100,12 @@ body {
 	letter-spacing: 10px;
 }
 
+@media (max-width: 576px) {
+    .title h2 {
+        letter-spacing: .2px;
+    }
+}
+
 /*
 
 .title span {
@@ -114,20 +120,55 @@ body {
 
 .large-button a {
 	text-decoration: none;
+}
+
+.large-button div {
+	width: 9vw;
+	margin: 0 auto;
 	color: #ffffff;
-	border: 4px double #ffffff;
+	border: none;
+    background-color: rgba(0,0,0,.5);
 	font-size: 24px;
 	padding-left: 5px;
 	padding-right: 5px;
 	padding-top: 2px;
 	padding-bottom: 2px;
-	background-color: rgb(12, 51, 2);
+	transition-property: background-color;
+	transition-duration: .5s;
+	transition-timing-function: ease;
+}
+
+.large-button div:hover{
+	background-color: rgba(209, 196, 138, .6);
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
 	.title h1 {
 		font-size: 190%;
 	}
+    .large-button div {
+        width: 20vw;
+    }
+}
+
+@media (max-width: 576px) {
+	.large-button div {
+        width: 30vw;
+		border: none;
+        background-color: rgba(0,0,0,.5);
+	}
+    .large-button div:hover {
+    	background-color: transparent;
+    }
+    .large-button a:hover {
+	text-decoration: underline;
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1280px) {
+    .large-button div {
+        width: 14vw;
+    }
 }
 
 @media (min-width: 577px) and (max-width: 767px) {
@@ -291,7 +332,7 @@ body {
     text-transform: capitalize;
 }
 
-@media (max-width: 576px) {
+@media (max-width: 1024px) {
     .text {
         font-size: 20px;
     }
@@ -299,7 +340,25 @@ body {
         position: relative;
         top: 20px;
     }
+    
 }
+
+
+
+@media (min-width: 768px) and (max-width: 1024px) {
+    .items-diplay {
+        padding-top: 12%;
+    }
+}  
+
+@media (min-width: 1024px) and (max-width: 1280px) {
+    .items-diplay {
+        padding-top: 9%;
+    }
+}
+    
+  
+
 
 .order-button {
 	font-size: 20px;
@@ -401,17 +460,17 @@ body {
 
 
 
-.submit-button {
+.submit-now {
 	width: 100px;
-	background-color: rgb(34, 92, 18);
-	border: 4px double #ffffff;
+	border: 1px solid rgb(64, 64, 64);
 	margin:0 auto;
-	
+	transition-property: background-color;
+	transition-duration: .3s;
+	transition-timing-function: ease;	
 }
 
-.submit-button:hover {
-	border: 4px double #ffffff;
-	background-color: rgb(34, 92, 18);
+.submit-now:hover {
+	background-color: rgba(209, 196, 138, .6);
 }
 
 
