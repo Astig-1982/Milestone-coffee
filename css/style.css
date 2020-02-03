@@ -29,6 +29,36 @@ body {
 	text-align: center;
 }
 
+.logo-item {
+	width: 68px;
+	height: 68px;
+	position: fixed;
+	top: 10px;
+	left: 25px;
+	z-index: 5;
+    background-image: url(https://logopond.com/logos/95524a15a5f1fe77e43811991641543e.png);
+	background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+    opacity: .7;
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+	.logo-item {
+        position: fixed;
+	    top: 15px;
+	    left: 25px;
+	}
+}
+
+@media (min-width: 769px) and (max-width: 1024px) {
+	.logo-item {
+		position: fixed;
+	    top: 5px;
+	    left: 25px;
+	}
+}
+
 .navigation {
 	margin: 0;
 	padding: 0;
@@ -44,7 +74,7 @@ body {
 	padding-bottom: 1%;
 	background: rgba(0,0,0,.6);
 	position: fixed;
-	z-index: 3000;
+	z-index: 2;
 	box-sizing: border-box;
 }
 
