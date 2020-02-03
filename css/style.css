@@ -163,6 +163,12 @@ body {
 	padding-right: 5px;
 	padding-top: 2px;
 	padding-bottom: 2px;
+    -webkit-transition-property: background-color;
+	-webkit-transition-duration: .5s;
+	-webkit-transition-timing-function: ease;
+	-moz-transition-property: background-color;
+	-moz-transition-duration: .5s;
+	-moz-transition-timing-function: ease;
 	transition-property: background-color;
 	transition-duration: .5s;
 	transition-timing-function: ease;
@@ -326,7 +332,7 @@ body {
     border: 1px solid #ffffff;
 }
 
-.overlay {
+.slide {
   position: absolute;
   bottom: 0;
   left: 0;
@@ -335,13 +341,19 @@ body {
   overflow: hidden;
   width: 100%;
   height: 0;
+  -webkit-transition-property: height;
+  -webkit-transition-duration: .5s;
+  -webkit-transition-timing-function: ease;
+  -moz-transition-property: height;
+  -moz-transition-duration: .5s;
+  -moz-transition-timing-function: ease;
   transition-property: height;
   transition-duration: .5s;
   transition-timing-function: ease;
   border-radius: 2%;
 }
 
-.figurines:hover .overlay {
+.figurines:hover .slide {
 	height: 100%;
 }
 
@@ -494,6 +506,12 @@ body {
 	width: 100px;
 	border: 1px solid rgb(64, 64, 64);
 	margin:0 auto;
+    -webkit-transition-property: background-color;
+	-webkit-transition-duration: .3s;
+	-webkit-transition-timing-function: ease;
+	-moz-transition-property: background-color;
+	-moz-transition-duration: .3s;
+	-moz-transition-timing-function: ease;	
 	transition-property: background-color;
 	transition-duration: .3s;
 	transition-timing-function: ease;	
