@@ -60,7 +60,17 @@ body {
 	margin-right: 0rem;
 }
 
-
+.navbar-brand {
+    border: 1px solid #ffffff;
+    margin: 0 0 0 16px;
+    width: 60px;
+    height: 60px;
+    background-image: url(https://cdn.dribbble.com/users/3229064/screenshots/6579030/organic-coffee-logo.png);
+    background-repeat: no-repeat;
+	background-position: center;
+	background-size: cover;
+    opacity: .7;
+}
 
 
 
