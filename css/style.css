@@ -29,73 +29,31 @@ body {
 	text-align: center;
 }
 
-.logo-item {
-	width: 68px;
-	height: 68px;
+.navbar {
+	width: 100%;
+	padding: 14px 0 14px 0;
 	position: fixed;
-	top: 10px;
-	left: 25px;
-	z-index: 5;
-    background-image: url(https://logopond.com/logos/95524a15a5f1fe77e43811991641543e.png);
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: cover;
-    opacity: .7;
+	background-color: rgba(0,0,0,.7);
 }
 
-@media (min-width: 576px) and (max-width: 768px) {
-	.logo-item {
-        position: fixed;
-	    top: 15px;
-	    left: 25px;
-	}
+.navbar-nav {
+	margin: 0 auto;
 }
 
-@media (min-width: 769px) and (max-width: 1024px) {
-	.logo-item {
-		position: fixed;
-	    top: 5px;
-	    left: 25px;
-	}
+.nav-item {
+	margin-right: 10rem;
+	font-size: 1.2rem;
+    
 }
 
-.navigation {
-	margin: 0;
-	padding: 0;
-	width: 200px;
+.nav-link {
+     color: #ffffff !important;
 }
 
-.center {
-	text-align: center;
+#contact-us-navigation {
+	margin-right: 0rem;
 }
 
-.col-navigation {
-	padding-top: 2%;
-	padding-bottom: 1%;
-	background: rgba(0,0,0,.6);
-	position: fixed;
-	z-index: 2;
-	box-sizing: border-box;
-}
-
-#nav {
-	padding-right: 2%;
-}
-
-.navigation-items {
-	font-family: Baskervville, sans-serif;
-	color: rgb(217, 217, 217);
-	font-size: 21px;
-	font-weight: 900;
-	text-decoration: none;
-}	
-
-.navigation-items:hover {
-    color: #ffffff;
-    opacity: .2;
-	text-decoration: none;
-	font-weight: 900;
-}
 
 
 
