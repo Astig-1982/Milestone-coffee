@@ -2,6 +2,10 @@
 @import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
 @import url('https://fonts.googleapis.com/css?family=Ibarra+Real+Nova&display=swap');
 
+html {
+    scroll-behavior: smooth;
+}
+
 body {
     background-color: #ffffff;
 	margin: 0;
@@ -27,6 +31,10 @@ body {
 	background-size: cover;
 	position: relative;
 	text-align: center;
+}
+
+.row {
+    margin-right: 0;
 }
 
 .navbar {
