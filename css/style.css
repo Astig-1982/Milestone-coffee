@@ -426,6 +426,7 @@ body {
 
 #contact-us-form {
 	margin: 8rem 0 0 2rem;
+    font-family: 'Ibarra Real Nova', sans-serif;
 }
 
 @media (max-width: 576px) {
@@ -440,15 +441,36 @@ body {
 
 
 .form-control {
-	font-family: 'Ibarra Real Nova', sans-serif;
 	text-transform: capitalize;
-	font-size: 1.4rem;
+    font-size: 1.4rem;
 	font-weight: 400;
 	border: 1px solid grey;
 	background-color: rgba(209, 196, 138, .6);
 }
 
+.register-button {
+	width: 8rem;
+    height: 2.6rem;
+    background-color: #ffffff;
+    font-size: 1.4rem;
+	border: 1px solid grey;
+    border-radius: 4.5px;
+	margin:0 auto;
+    opacity: .8;
+    -webkit-transition-property: background-color;
+	-webkit-transition-duration: .3s;
+	-webkit-transition-timing-function: ease;
+	-moz-transition-property: background-color;
+	-moz-transition-duration: .3s;
+	-moz-transition-timing-function: ease;	
+	transition-property: background-color;
+	transition-duration: .3s;
+	transition-timing-function: ease;
+}
 
+.register-button:hover {
+	background-color: rgba(209, 196, 138, .6);
+}
 
 
 
