@@ -411,10 +411,6 @@ body {
 
 /* Social page starts here */
 
-.social {
-    background-color:
-}
-
 .social-details {
 	height: 150px;
 }
@@ -432,6 +428,29 @@ body {
 .contact-details a {
 	color:  rgb(64, 64, 64);
 }
+
+.contact-social {
+	font-size: 1.4rem;
+	text-align: center;
+	opacity: .9;
+	margin-top: 1.2rem;
+}
+
+.contact-social p {
+	font-weight: 200;
+	letter-spacing: .05rem;
+	text-transform: capitalize;
+}
+
+.contact-social i {
+	margin-right: 2.4rem;
+    font-size: 1.8rem;
+}
+
+#no-margin-right {
+	margin-right: 0;
+}
+
 
 /* Media queries start here */
 
