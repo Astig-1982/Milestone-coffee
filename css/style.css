@@ -156,7 +156,7 @@ body {
 }
 
 .large-button div:hover{
-	background-color: rgba(209, 196, 138, .6);
+	background-color: rgba(245, 174, 7, .3);
 }
 
 /* landing page finishes here */
@@ -165,9 +165,7 @@ body {
 
 .about {
 	min-height: 600px;
-	min-width: 100%;
-	border-bottom: 1px solid grey;
-	
+	min-width: 100%;	
 }
 
 
@@ -205,7 +203,7 @@ body {
 .layout-products {
 	width: 100%;
 	min-height: 600px;
-	background-color: rgba(209, 196, 138, .6);
+	background-color: rgba(245, 174, 7, .3);
 	padding: 0;
 	margin: 0;
 }
@@ -342,16 +340,6 @@ body {
 }
 
 
-
-@media (min-width:  992px) {
-	.contact-us {
-		max-height: 600px;
-		border: 1px solid grey;
-		border-right: 0;
-		border-left: 0;
-	}
-}
-
 #contact-us-title {
 	margin: 2rem 0 0 2rem;
     font-family: 'Baskervville', sans-serif;
@@ -377,7 +365,7 @@ body {
     font-size: 1.4rem;
 	font-weight: 400;
 	border: 1px solid grey;
-	background-color: rgba(209, 196, 138, .6);
+	background-color: rgba(245, 174, 7, .3);
 }
 
 .register-button {
@@ -401,7 +389,7 @@ body {
 }
 
 .register-button:hover {
-	background-color: rgba(209, 196, 138, .6);
+	background-color: rgba(245, 174, 7, .3);
 }
 
 
@@ -498,6 +486,8 @@ body {
 
 }
 
+
+
 @media (min-width: 768px) and (max-width: 1024px) {
     .title h1 {
 		font-size: 190%;
@@ -510,6 +500,12 @@ body {
         padding-top: 12%;
     }
 
+}
+
+@media (min-width:  992px) {
+	.contact-us {
+		max-height: 600px;
+	}
 }
 
 @media (min-width: 1024px) and (max-width: 1280px) {
