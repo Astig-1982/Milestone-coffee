@@ -423,16 +423,30 @@ body {
 	}
 }
 
+#contact-us-title {
+	margin: 2rem 0 0 2rem;
+}
 
 #contact-us-form {
-	margin: 8rem 0 0 2rem;
+	margin: 2rem 0 0 2rem;
     font-family: 'Ibarra Real Nova', sans-serif;
 }
 
+
 @media (max-width: 576px) {
 	#contact-us-form {
-		margin: 5rem 0 0 0;
+		margin: 1rem 0 0 0;
 	}
+
+	#contact-us-title {
+		margin: 1rem 0 0 0;
+		text-align: center;
+	}
+
+    .form-control {
+    	text-align: center;
+    }
+
 }
 
 .form-group {
