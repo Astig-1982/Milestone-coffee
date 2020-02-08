@@ -52,7 +52,7 @@ body {
 .nav-item {
 	margin-right: 10rem;
 	font-size: 1.4rem;
-    font-family: 'Baskervville', sans-serif
+    font-family: 'Baskervville', sans-serif;
     
 }
 
@@ -425,6 +425,9 @@ body {
 
 #contact-us-title {
 	margin: 2rem 0 0 2rem;
+    font-family: 'Baskervville', sans-serif;
+    text-transform: capitalize;
+    
 }
 
 #contact-us-form {
@@ -455,7 +458,7 @@ body {
 
 
 .form-control {
-	text-transform: capitalize;
+    text-transform: capitalize;
     font-size: 1.4rem;
 	font-weight: 400;
 	border: 1px solid grey;
