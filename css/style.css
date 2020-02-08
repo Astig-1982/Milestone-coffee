@@ -112,11 +112,7 @@ body {
 	letter-spacing: 10px;
 }
 
-@media (max-width: 576px) {
-    .title h2 {
-        letter-spacing: .2px;
-    }
-}
+
 
 /*
 
@@ -169,19 +165,7 @@ body {
     }
 }
 
-@media (max-width: 576px) {
-	.large-button div {
-        width: 30vw;
-		border: none;
-        background-color: rgba(0,0,0,.5);
-	}
-    .large-button div:hover {
-    	background-color: transparent;
-    }
-    .large-button a:hover {
-	text-decoration: underline;
-    }
-}
+
 
 @media (min-width: 1024px) and (max-width: 1280px) {
     .large-button div {
@@ -436,21 +420,7 @@ body {
 }
 
 
-@media (max-width: 576px) {
-	#contact-us-form {
-		margin: 1rem 0 0 0;
-	}
 
-	#contact-us-title {
-		margin: 1rem 0 0 0;
-		text-align: center;
-	}
-
-    .form-control {
-    	text-align: center;
-    }
-
-}
 
 .form-group {
 	margin-bottom: 2rem;
@@ -523,12 +493,40 @@ body {
 	bottom: 4px;
 }
 
+
 @media (max-width: 576px) {
-	.social-icons span{
+    .social-icons span{
 		display: inline-block;
 	}
-}
 
+    .large-button div {
+        width: 30vw;
+	}
+    .large-button div:hover {
+    	background-color: transparent;
+    }
+    .large-button a:hover {
+	text-decoration: underline;
+    }
+
+    .title h2 {
+        letter-spacing: .2px;
+    }
+
+	#contact-us-form {
+		margin: 1rem 0 0 0;
+	}
+
+	#contact-us-title {
+		margin: 1rem 0 0 0;
+		text-align: center;
+	}
+
+    .form-control {
+    	text-align: center;
+    }
+
+}
 
 
 
