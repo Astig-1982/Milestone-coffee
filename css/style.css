@@ -415,6 +415,10 @@ body {
 	height: 150px;
 }
 
+.social-details a {
+    color: rgb(64, 64, 64);
+}
+
 .contact-details {
 	margin: 1.2rem 0 0 2rem;
 }
@@ -425,9 +429,6 @@ body {
 	letter-spacing: .1rem;
 }
 
-.contact-details a {
-	color:  rgb(64, 64, 64);
-}
 
 .contact-social {
 	font-size: 1.4rem;
