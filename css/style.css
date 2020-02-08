@@ -430,6 +430,7 @@ body {
 	margin: 0;
 	font-family: 'Lato', sans-serif;
 	letter-spacing: .1rem;
+    opacity: .9;
 }
 
 
@@ -444,6 +445,7 @@ body {
 	font-weight: 200;
 	letter-spacing: .05rem;
 	text-transform: capitalize;
+    opacity: .9;
 }
 
 .contact-social i {
@@ -507,6 +509,7 @@ body {
     .items-diplay {
         padding-top: 12%;
     }
+
 }
 
 @media (min-width: 1024px) and (max-width: 1280px) {
