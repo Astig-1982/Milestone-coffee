@@ -309,17 +309,6 @@ body {
     text-transform: capitalize;
 }
 
-@media (max-width: 1024px) {
-    .text {
-        font-size: 20px;
-    }
-    .text .order-button {
-        position: relative;
-        top: 20px;
-    }
-    
-}
-
 
 .order-button {
 	font-size: 20px;
@@ -513,6 +502,17 @@ body {
 	.title h1 {
 		font-size: 150%;
 	}
+}
+
+@media (max-width: 1024px) {
+    .text {
+        font-size: 20px;
+    }
+    .text .order-button {
+        position: relative;
+        top: 20px;
+    }
+    
 }
 
 
