@@ -158,11 +158,6 @@ body {
 
 
 
-@media (min-width: 1024px) and (max-width: 1280px) {
-    .large-button div {
-        width: 14vw;
-    }
-}
 
 @media (min-width: 577px) and (max-width: 767px) {
 	.title h1 {
@@ -343,18 +338,6 @@ body {
 }
 
 
-
-  
-
-@media (min-width: 1024px) and (max-width: 1280px) {
-    .items-diplay {
-        padding-top: 9%;
-    }
-}
-    
-  
-
-
 .order-button {
 	font-size: 20px;
 	text-decoration: none;
@@ -526,6 +509,16 @@ body {
 
     .items-diplay {
         padding-top: 12%;
+    }
+}
+
+@media (min-width: 1024px) and (max-width: 1280px) {
+    .large-button div {
+        width: 14vw;
+    }
+
+    .items-diplay {
+        padding-top: 9%;
     }
 }
 
