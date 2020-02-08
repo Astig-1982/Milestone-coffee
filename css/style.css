@@ -156,23 +156,6 @@ body {
 	background-color: rgba(209, 196, 138, .6);
 }
 
-
-
-
-@media (min-width: 577px) and (max-width: 767px) {
-	.title h1 {
-		font-size: 150%;
-	}
-}
-
-@media (max-width: 576px) {
-	.title h1 {
-		font-size: 140%;
-	}
-}
-
-
-
 /* landing page finishes here */
 
 /* about page starts here */
@@ -469,6 +452,10 @@ body {
     .social-icons span{
 		display: inline-block;
 	}
+    
+    .title h1 {
+		font-size: 140%;
+	}
 
     .large-button div {
         width: 30vw;
@@ -520,6 +507,12 @@ body {
     .items-diplay {
         padding-top: 9%;
     }
+}
+
+@media (min-width: 577px) and (max-width: 767px) {
+	.title h1 {
+		font-size: 150%;
+	}
 }
 
 
