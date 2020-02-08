@@ -156,15 +156,6 @@ body {
 	background-color: rgba(209, 196, 138, .6);
 }
 
-@media (min-width: 768px) and (max-width: 1024px) {
-	.title h1 {
-		font-size: 190%;
-	}
-    .large-button div {
-        width: 20vw;
-    }
-}
-
 
 
 @media (min-width: 1024px) and (max-width: 1280px) {
@@ -353,11 +344,7 @@ body {
 
 
 
-@media (min-width: 768px) and (max-width: 1024px) {
-    .items-diplay {
-        padding-top: 12%;
-    }
-}  
+  
 
 @media (min-width: 1024px) and (max-width: 1280px) {
     .items-diplay {
@@ -493,6 +480,7 @@ body {
 	bottom: 4px;
 }
 
+/* Media queries start here */
 
 @media (max-width: 576px) {
     .social-icons span{
@@ -528,6 +516,17 @@ body {
 
 }
 
+@media (min-width: 768px) and (max-width: 1024px) {
+    .title h1 {
+		font-size: 190%;
+	}
+    .large-button div {
+        width: 20vw;
+    }
 
+    .items-diplay {
+        padding-top: 12%;
+    }
+}
 
 
