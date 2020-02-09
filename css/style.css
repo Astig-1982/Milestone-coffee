@@ -21,7 +21,7 @@ body {
 .landing {
 	min-height: 100vh;
 	min-width: 100%;
-	border: 0.1px solid white;
+	
     box-sizing: border-box;
 	background-image: url(https://esprada.co.uk/wp-content/uploads/2018/06/books-break-coffee-927451-compressed-pexels-220618-min.jpg);
 	background-color: rgba(255,255,255,0.3);
@@ -69,15 +69,15 @@ body {
 }
 
 .navbar-brand {
-    border: 1px solid #ffffff;
+    
     margin: 0 0 0 16px;
     width: 60px;
     height: 60px;
-    background-image: url(https://cdn.dribbble.com/users/3229064/screenshots/6579030/organic-coffee-logo.png);
+    background-image: url(https://cdn2.vectorstock.com/i/1000x1000/68/16/coffee-cup-with-splash-vector-12056816.jpg);
     background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;
-    opacity: .7;
+    opacity: .8;
 }
 
 
