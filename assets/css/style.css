@@ -318,8 +318,7 @@ body {
 	transform: translate(-50%, -50%);
 	font-size: 30px;
 	font-family: Baskervville, sans-serif;
-	color: #ffffff;
-	word-wrap: break-all; 
+	color: #ffffff; 
     text-transform: capitalize;
 }
 
