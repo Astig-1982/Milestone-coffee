@@ -229,40 +229,30 @@ body {
 	height: 400px;	
 }
 
-.products .figurines {
+.figurines {
 	width: 80%;
 	height: 90%;
 	margin: 0 auto;
 	margin-top: 5%;
 	position: relative;
 	border-radius: 2%;
-}
-
-.products .one {
-	background-image: url(https://cocoarunners-assets.s3.amazonaws.com/uploads/2019/12/Coffee-Sub-II.jpg);
-	background-color: rgba(255, 255, 255, .2);
+    background-color: rgba(255, 255, 255, .2);
     background-blend-mode: lighten;
-	background-repeat: no-repeat;
+    background-repeat: no-repeat;
 	background-position: center;
 	background-size: cover;	
 }
 
-.products .two {
-	background-image: url(https://image.freepik.com/free-photo/black-coffee-white-cup-glass-top-table_34046-19.jpg);
-	background-color: rgba(255, 255, 255, .2);
-    background-blend-mode: lighten;
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: cover;	
+#Brasil-Mantiquiera {
+	background-image: url(https://cocoarunners-assets.s3.amazonaws.com/uploads/2019/12/Coffee-Sub-II.jpg);	
 }
 
-.products .three {
+#Blackcode-Espresso {
+	background-image: url(https://image.freepik.com/free-photo/black-coffee-white-cup-glass-top-table_34046-19.jpg)	
+}
+
+#East-Timor-Duhoho {
 	background-image: url(https://post.healthline.com/wp-content/uploads/2019/04/green-coffee-bean-weight-loss_thumb.jpg);
-	background-color: rgba(255, 255, 255, .2);
-    background-blend-mode: lighten;
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: cover;
 }
 
 .items-name {
