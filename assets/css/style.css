@@ -97,6 +97,7 @@ body {
     font-size: 220%;
 	font-family: 'Baskervville', sans-serif;
 	font-weight: 800;
+    margin: 0 auto;
 }
 
 .title h1 {
@@ -108,8 +109,12 @@ body {
     text-transform: uppercase;
 }
 
+hr {
+    background-color: rgb(64, 64, 64);
+}
+
 .title h2 {
-	word-spacing: 5px;
+	word-spacing: 10px;
 	letter-spacing: 10px;
 }
 
