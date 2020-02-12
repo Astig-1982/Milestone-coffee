@@ -410,7 +410,7 @@ hr {
     opacity: .9;
 }
 
-/* social icons and titl */
+/* social icons and title */
 
 .contact-social {
 	font-size: 1.4rem;
@@ -459,6 +459,10 @@ hr {
 
     .title h2 {
         letter-spacing: .2px;
+    }
+
+    .our-business p {
+        letter-spacing: normal;
     }
 
 	#contact-us-form {
