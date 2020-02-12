@@ -442,13 +442,13 @@ hr {
     .landing {
         background-position: 15% 15%;
     }
-    
+
     .main-title {
         top: 12rem;
     }
     
     .title h1 {
-		font-size: 140%;
+		font-size: 3rem;
 	}
 
     .large-button div {
@@ -481,9 +481,6 @@ hr {
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
-    .title h1 {
-		font-size: 190%;
-	}
     .large-button div {
         width: 20vw;
     }
@@ -514,10 +511,6 @@ hr {
 }
 
 @media (min-width: 577px) and (max-width: 767px) {
-	.title h1 {
-		font-size: 150%;
-	}
-
     .title h2 {
         letter-spacing: normal;
 
