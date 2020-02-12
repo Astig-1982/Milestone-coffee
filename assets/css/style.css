@@ -70,7 +70,6 @@ body {
 }
 
 .navbar-brand {
-    
     margin: 0 0 0 16px;
     width: 60px;
     height: 60px;
@@ -128,7 +127,7 @@ hr {
 }
 
 .large-button div {
-	width: 9vw;
+	width: 8rem;
 	margin: 0 auto;
 	color: #ffffff;
 	border: none;
@@ -451,9 +450,6 @@ hr {
 		font-size: 3rem;
 	}
 
-    .large-button div {
-        width: 30vw;
-	}
     .large-button div:hover {
     	background-color: transparent;
     }
@@ -481,10 +477,6 @@ hr {
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
-    .large-button div {
-        width: 20vw;
-    }
-
     .items-diplay {
         padding-top: 12%;
     }
@@ -501,10 +493,6 @@ hr {
 }
 
 @media (min-width: 1024px) and (max-width: 1280px) {
-    .large-button div {
-        width: 14vw;
-    }
-
     .items-diplay {
         padding-top: 9%;
     }
