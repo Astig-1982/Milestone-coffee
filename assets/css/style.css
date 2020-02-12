@@ -192,15 +192,11 @@ hr {
 
 .our-business p a {
     color: rgb(64, 64, 64);
-    text-decoration: underline;
     font-weight: 900;
     font-style: italic;
     letter-spacing: 3.5px;
 }
 
-.our-business p a:hover {
-    opacity: .5;
-}
 
 
 .our-business i {
