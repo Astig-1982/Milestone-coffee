@@ -452,12 +452,8 @@ hr {
 		font-size: 3rem;
 	}
 
-    .large-button div:hover {
-    	background-color: transparent;
-    }
-    .large-button a:hover {
-	text-decoration: underline;
-    }
+    
+    
 
     .title h2 {
         letter-spacing: .2px;
