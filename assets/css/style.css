@@ -65,6 +65,12 @@ body {
     opacity: .2;
 }
 
+.navbar-toggler {
+    background-color: rgba(245, 174, 7, .4);
+    margin-right: 1rem;
+    border-color: rgb(64, 64, 64);
+}
+
 #contact-us-navigation {
 	margin-right: 0rem;
 }
