@@ -26,7 +26,7 @@ body {
 	background-color: rgba(255,255,255,0.3);
     background-blend-mode: lighten;
 	background-repeat: no-repeat;
-	background-position: center;
+	background-position: 4% 20%;
 	background-size: cover;
 	position: relative;
 	text-align: center;
@@ -439,6 +439,10 @@ hr {
 /* media queries start here */
 
 @media (max-width: 576px) {
+    .landing {
+        background-position: 15% 15%;
+    }
+    
     .main-title {
         top: 12rem;
     }
