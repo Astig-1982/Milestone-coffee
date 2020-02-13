@@ -331,7 +331,7 @@ hr {
 .contact-us {
 	min-height: 600px;
 	min-width: 100%;
-	border-bottom: 1px solid grey;
+	border-bottom: 1px solid #949494;
 	margin: 0;
 	padding: 0;
 }
@@ -359,7 +359,7 @@ hr {
     text-transform: capitalize;
     font-size: 1.4rem;
 	font-weight: 400;
-	border: 1px solid grey;
+	border: 1px solid #949494;
 	background-color: rgba(245, 174, 7, .3);
 }
 
@@ -368,7 +368,7 @@ hr {
     height: 2.6rem;
     background-color: #ffffff;
     font-size: 1.4rem;
-	border: 1px solid grey;
+	border: 1px solid #949494;
     border-radius: 4.5px;
 	margin:0 auto;
     opacity: .8;
