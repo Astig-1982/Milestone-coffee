@@ -89,9 +89,8 @@ body {
 
 .main-title {
 	text-align: center;
-	position: relative;
-	top: 16.25rem;
     margin: 0;
+    margin-top: 40vh;
 }
 
 
