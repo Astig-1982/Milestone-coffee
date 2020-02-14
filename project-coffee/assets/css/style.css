@@ -137,10 +137,7 @@ hr {
 	border: none;
     background-color: rgba(0,0,0,.5);
 	font-size: 24px;
-	padding-left: 5px;
-	padding-right: 5px;
-	padding-top: 2px;
-	padding-bottom: 2px;
+	padding: 2px 5px;
     -webkit-transition-property: background-color;
 	-webkit-transition-duration: .5s;
 	-webkit-transition-timing-function: ease;
