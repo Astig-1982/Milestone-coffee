@@ -40,7 +40,7 @@ body {
 
 .navbar {
 	width: 100%;
-	padding: 14px 0 14px 0;
+	padding: .8rem 0;
 	position: fixed;
 	background-color: rgba(0,0,0,.5);
     z-index: 5;
@@ -75,7 +75,7 @@ body {
 }
 
 .navbar-brand {
-    margin: 0 0 0 16px;
+    margin: 0 0 0 1rem;
     width: 60px;
     height: 60px;
     background-image: url(https://i.ya-webdesign.com/images/steam-clipart-cafe-cup-2.jpg);
@@ -106,8 +106,8 @@ body {
 	font-size: 4rem;
     font-weight: 100;
 	margin-bottom: 0;
-	word-spacing: 8px;
-	letter-spacing: 6.5px;
+	word-spacing: .5rem;
+	letter-spacing: .5rem;
     text-transform: uppercase;
 }
 
@@ -116,8 +116,8 @@ hr {
 }
 
 .title h2 {
-	word-spacing: 10px;
-	letter-spacing: 10px;
+	word-spacing: .6rem;
+	letter-spacing: .6rem;
 }
 
 /* landing-page register button */
@@ -136,7 +136,7 @@ hr {
 	color: #ffffff;
 	border: none;
     background-color: rgba(0,0,0,.5);
-	font-size: 24px;
+	font-size: 1.5rem;
 	padding: 2px 5px;
     -webkit-transition-property: background-color;
 	-webkit-transition-duration: .5s;
@@ -165,10 +165,11 @@ hr {
 
 
 .coffee-cup {
-	font-size: 25px;
+	font-size: 3rem;
 	text-align: center;
 	display: block;
 	margin: auto;
+    margin-bottom: 1rem;
 }
 
 .our-business {
@@ -182,7 +183,7 @@ hr {
 	letter-spacing: 5px;
 	font-size: 120%;
 	word-break: normal;
-	line-height: 35px;
+	line-height: 2.2rem;
 }
 
 .our-business p a {
@@ -190,13 +191,6 @@ hr {
     font-weight: 900;
     font-style: italic;
     letter-spacing: 3.5px;
-}
-
-
-
-.our-business i {
-	font-size: 250%;
-	margin-bottom: 16px;
 }
 
 /* about page ends here */
@@ -261,7 +255,7 @@ hr {
 	font-family: 'Ibarra Real Nova', sans-serif;
     font-weight: 500;
 	color: #ffffff;
-	font-size: 30px;
+	font-size: 1.9rem;
     border: 1px solid #ffffff;
 }
 
@@ -300,7 +294,7 @@ hr {
 	left: 50%;
 	text-align: center;
 	transform: translate(-50%, -50%);
-	font-size: 30px;
+	font-size: 1.9rem;
 	font-family: Baskervville, sans-serif;
 	color: #ffffff; 
     text-transform: capitalize;
@@ -308,7 +302,7 @@ hr {
 
 
 .order-button {
-	font-size: 20px;
+	font-size: 1.2rem;
 	text-decoration: none;
 	color: #ffffff;
     border: 1px solid #ffffff;
@@ -418,7 +412,7 @@ hr {
 
 .contact-social p {
 	font-weight: 200;
-	letter-spacing: .05rem;
+	letter-spacing: .5rem;
 	text-transform: capitalize;
     opacity: .9;
 }
@@ -447,7 +441,7 @@ hr {
 		font-size: 3rem;
 	}
 
-    
+}
     
 
     .title h2 {
