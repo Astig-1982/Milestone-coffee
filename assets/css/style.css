@@ -86,8 +86,9 @@ body {
 
 .main-title {
 	text-align: center;
-    margin: 0;
+    margin: 0 auto;
     margin-top: 40vh;
+    width: 50%;
 }
 
 
@@ -100,8 +101,9 @@ body {
 
 .title-devider {
     border: 1.1px solid rgb(64, 64, 64);
-    width: 60%;
-    margin: 1.2rem 0 1.2rem 19vw;
+    background-color: rgb(64, 64, 64);
+    width: 100%;
+    margin: 1rem 0;
 }
 
 .title h1 {
@@ -115,8 +117,8 @@ body {
 
 
 .title h2 {
-	letter-spacing: .4rem;
-    margin: 0 0 1.2rem 0;
+	letter-spacing: .8rem;
+    margin: 0 0 1rem 0;
 }
 
 /* landing-page register button */
@@ -442,7 +444,7 @@ body {
         background-position: 15% 15%;
     }
     .main-title {
-        top: 12rem;
+        width: 100%;
     }
     .title h1 {
 		font-size: 3rem;
