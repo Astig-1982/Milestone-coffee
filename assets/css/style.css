@@ -326,16 +326,24 @@ body {
 
 
 #contact-us-title {
-	margin: 2rem 0 0 2rem;
+	text-align: center;
     font-family: 'Baskervville', sans-serif;
     text-transform: capitalize;
-    
+    margin: 2rem 0 1.5rem 0;
+}
+
+#contact-us-title h2 {
+    margin: 0;
 }
 
 #contact-us-form {
     width: 40%;
     margin: 0 auto;
     font-family: 'Ibarra Real Nova', sans-serif;
+}
+
+.forms {
+    text-align: center;
 }
 
 
