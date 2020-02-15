@@ -438,42 +438,46 @@ body {
     .landing {
         background-position: 15% 15%;
     }
-
     .main-title {
         top: 12rem;
     }
-    
     .title h1 {
 		font-size: 3rem;
 	}
-
     .title h2 {
         letter-spacing: normal;
     }
-
     .our-business p {
         letter-spacing: normal;
     }
-
 	#contact-us-form {
-		margin: 1rem 0 0 0;
+		width: 100%;
 	}
-
 	#contact-us-title {
 		margin: 1rem 0 0 0;
 		text-align: center;
 	}
-
     .form-control {
     	text-align: center;
     }
+}
+
+@media (min-width: 577px) and (max-width: 767px) {
+    .title h2 {
+        letter-spacing: normal;
+    }
+     #contact-us-form {
+        width: 60%;
+    }  
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
     .items-diplay {
         padding-top: 12%;
     }
-
+    #contact-us-form {
+        width: 60%;
+    }
 }
 
 @media (min-width:  992px) {
@@ -489,12 +493,6 @@ body {
     .items-diplay {
         padding-top: 9%;
     }
-}
-
-@media (min-width: 577px) and (max-width: 767px) {
-    .title h2 {
-        letter-spacing: normal;
-
 }
 
 @media (max-width: 1024px) {
