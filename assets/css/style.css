@@ -68,9 +68,7 @@ body {
     margin-right: 1rem;
 }
 
-#contact-us-navigation {
-	margin-right: 0rem;
-}
+
 
 .navbar-brand {
     margin: 0 0 0 1rem;
@@ -460,7 +458,6 @@ body {
     .form-control {
     	text-align: center;
     }
-
 }
 
 @media (min-width: 768px) and (max-width: 1024px) {
@@ -497,6 +494,8 @@ body {
         top: 20px;
     }
 
+
+
     
     
 }
@@ -507,4 +506,8 @@ body {
     }
 }
 
-
+@media (min-width: 1025px) {
+    #contact-us-navigation {
+        margin-right: 0rem;
+    }
+}
