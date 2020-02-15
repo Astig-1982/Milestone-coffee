@@ -100,7 +100,8 @@ body {
 
 .title-devider {
     border: 1.1px solid rgb(64, 64, 64);
-    margin: 1.2rem 0;
+    width: 60%;
+    margin: 1.2rem 0 1.2rem 19vw;
 }
 
 .title h1 {
@@ -114,7 +115,8 @@ body {
 
 
 .title h2 {
-	letter-spacing: .6rem;
+	letter-spacing: .4rem;
+    margin: 0 0 1.2rem 0;
 }
 
 /* landing-page register button */
@@ -178,7 +180,7 @@ body {
 .our-business p {
 	font-family: Baskervville, sans-serif;
 	letter-spacing: 5px;
-	font-size: 120%;
+	font-size: 1.4rem;
 	word-break: normal;
 	line-height: 2.2rem;
 }
