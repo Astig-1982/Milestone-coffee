@@ -102,6 +102,11 @@ body {
     margin: 0 auto;
 }
 
+.title-devider {
+    border: 1.1px solid rgb(64, 64, 64);
+    margin: 1.2rem 0;
+}
+
 .title h1 {
 	font-size: 4rem;
     font-weight: 100;
@@ -111,12 +116,8 @@ body {
     text-transform: uppercase;
 }
 
-hr {
-    background-color: rgb(64, 64, 64);
-}
 
 .title h2 {
-	word-spacing: .6rem;
 	letter-spacing: .6rem;
 }
 
@@ -441,11 +442,8 @@ hr {
 		font-size: 3rem;
 	}
 
-}
-    
-
     .title h2 {
-        letter-spacing: .8rem;
+        letter-spacing: normal;
     }
 
     .our-business p {
@@ -471,9 +469,6 @@ hr {
     .items-diplay {
         padding-top: 12%;
     }
-
-    .title h2 {
-        letter-spacing: normal;
 
 }
 
