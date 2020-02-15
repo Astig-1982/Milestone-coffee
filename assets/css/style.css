@@ -480,6 +480,9 @@ body {
 	.contact-us {
 		max-height: 600px;
 	}
+    #contact-us-navigation {
+        margin-right: 0rem;
+    }
 }
 
 @media (min-width: 1024px) and (max-width: 1280px) {
@@ -501,12 +504,7 @@ body {
     .text .order-button {
         position: relative;
         top: 20px;
-    }
-
-
-
-    
-    
+    }   
 }
 
 @media (max-width: 768px) {
@@ -515,8 +513,3 @@ body {
     }
 }
 
-@media (min-width: 1025px) {
-    #contact-us-navigation {
-        margin-right: 0rem;
-    }
-}
