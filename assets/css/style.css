@@ -160,10 +160,15 @@ body {
 
 .about {
 	min-height: 600px;
-	min-width: 100%;	
+	min-width: 100%;
+    box-sizing: border-box;
+    padding-top: 1.4rem;
+    padding-bottom: 1.4rem;	
 }
 
-
+.about-us {
+    margin: 0 auto;
+}
 
 .coffee-cup {
 	font-size: 3rem;
@@ -171,12 +176,6 @@ body {
 	display: block;
 	margin: auto;
     margin-bottom: 1rem;
-}
-
-.our-business {
-	margin: 0 auto;
-    margin-top: 2.4rem;
-
 }
 
 .our-business p {
@@ -508,4 +507,8 @@ body {
         letter-spacing: normal;
     }
 }
-
+ @media (min-width: 1024px) {
+     .about-us {
+         width: 60%;
+     }
+ }
