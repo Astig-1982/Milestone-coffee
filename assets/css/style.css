@@ -201,7 +201,7 @@ body {
 .layout-products {
 	width: 100%;
 	min-height: 600px;
-	background-color: rgba(187, 181, 170,.8);
+	background-color: rgba(191, 182, 166,.9);
 	padding: 0;
 	margin: 0;
 }
@@ -362,7 +362,7 @@ body {
     font-size: 1.4rem;
 	font-weight: 400;
 	border: 1px solid #949494;
-	background-color: rgba(187, 181, 170,.8);
+	background-color: rgba(191, 182, 166,.9);
     text-align: center;
 }
 
