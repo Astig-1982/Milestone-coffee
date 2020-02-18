@@ -255,6 +255,15 @@ body {
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
+    -webkit-transition-property: opacity;
+    -webkit-transition-duration: .7s;
+    -webkit-transition-timing-function: ease;
+    -moz-transition-property: opacity;
+    -moz-transition-duration: .7s;
+    -moz-transition-timing-function: ease;
+	transition-property: opacity;
+	transition-duration: .7s;
+	transition-timing-function: ease;
 }
 
 .items-name p {
@@ -290,7 +299,7 @@ body {
 }
 
 .figurines:hover .items-name {
-	display: none;
+	opacity: 0;
 }
 
 .text {
