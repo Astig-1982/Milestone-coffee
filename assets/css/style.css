@@ -452,14 +452,13 @@ body {
     .landing {
         background-position: 15% 15%;
     }
-    .main-title {
-        width: 100%;
-    }
+
     .title h1 {
 		font-size: 3rem;
 	}
     .title h2 {
         letter-spacing: normal;
+        font-size: 1.8rem;
     }
     .our-business p {
         letter-spacing: normal;
