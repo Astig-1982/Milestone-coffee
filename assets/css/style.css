@@ -321,11 +321,12 @@ body {
 	left: 50%;
 	text-align: center;
 	transform: translate(-50%, -50%);
-	font-size: 1.9rem;
-	font-family: 'Baskervville', serif;
+	font-size: 1.7rem;
+    font-family: 'Baskervville', serif;
 	color: #ffffff; 
     text-transform: capitalize;
 }
+
 
 
 .order-button {
