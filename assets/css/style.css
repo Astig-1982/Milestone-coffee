@@ -236,6 +236,18 @@ body {
     background-blend-mode: lighten;
 }
 
+.badge {
+    width: 20%;
+    height: 8%;
+    background: rgb(214, 167, 87);
+    color: #ffffff;
+    font-size: 1.2rem;
+    font-family: 'Baskervville', serif;
+    font-weight: 200;
+    margin: .5px 0 0 .5px;
+    letter-spacing: 1px;
+}
+
 /* products images */
 
 #Brasil-Mantiquiera {
