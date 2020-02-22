@@ -237,15 +237,22 @@ body {
 }
 
 .badge {
-    width: 20%;
-    height: 8%;
     background: rgb(214, 167, 87);
     color: #ffffff;
     font-size: 1.2rem;
     font-family: 'Baskervville', serif;
     font-weight: 200;
-    margin: .5px 0 0 .5px;
     letter-spacing: 1px;
+    z-index: 5;
+    -webkit-transition-property: opacity;
+    -webkit-transition-duration: .4s;
+    -webkit-transition-timing-function: ease;
+    -moz-transition-property: opacity;
+    -moz-transition-duration: .4s;
+    -moz-transition-timing-function: ease;
+	transition-property: opacity;
+	transition-duration: .4s;
+	transition-timing-function: ease;
 }
 
 /* products images */
@@ -314,6 +321,10 @@ body {
 }
 
 .figurines:hover .items-name {
+	opacity: 0;
+}
+
+.figurines:hover .badge {
 	opacity: 0;
 }
 
