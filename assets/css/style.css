@@ -255,6 +255,11 @@ body {
 	transition-timing-function: ease;
 }
 
+#new-badge-slide {
+    font-size: .9rem;
+}
+
+
 /* products images */
 
 #Brasil-Mantiquiera {
@@ -324,7 +329,7 @@ body {
 	opacity: 0;
 }
 
-.figurines:hover .badge {
+.figurines:hover #new-badge-display {
 	opacity: 0;
 }
 
