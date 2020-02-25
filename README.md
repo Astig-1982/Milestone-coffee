@@ -53,7 +53,7 @@ I chose to use Poppins as a main font for the webiste as it is a very clear and 
 
 I chose to use Baskervville for sub-titles and navbar as, in my opinion, it's a bit more artistic font (still easy to read) and could seem a bit more friendly to the reader (user), comparing to a more simplistic and robotic font. The goal is to make the user feel more connected with the company, giving it a sense of familiarity.
 
-The combination of all three fonts used, in my opinion, gives the website proffessioanal, clear and in the same time friendly aspect. 
+The combination of all three fonts used, in my opinion, gives the website a proffessioanal, clear and in the same time friendly aspect. 
 
  Icons:
 
@@ -69,7 +69,9 @@ I have used neutral colors for most of the project as I wanted to keep a proffes
 
   • Default body color: "White" #ffffff I chose to use white as I wanted to keep a simple and clear appearence for the website. This will make the user more focused on the products and services the company is providing.
 
+ Background:
 
+The images I used in for the website are sourced from royalty free websites and they represent suggestive images of coffee and work being done on a laptop with a creammy coffee next to it. The products' images represent each product and its main use (e.g. the first product is ideal for cappuccinos and lattes, hence the suggestive image with 3 cappuccinos).
 
 
 
