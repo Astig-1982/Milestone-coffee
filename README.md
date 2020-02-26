@@ -47,13 +47,13 @@ Coffee-Project is a website of a fictional company 'Coffee Fresh' that delivers 
 
 ### Fonts:
 
-I chose to use [Arial](https://www.fonts.com/font/monotype/arial?QueryFontType=Web&src=GoogleWebFonts) for the main title in order to keep a simple and proffessional appearance as a first encounter the user will have with the website.
+I chose to use [ARIAL](https://www.fonts.com/font/monotype/arial?QueryFontType=Web&src=GoogleWebFonts) for the main title in order to keep a simple and proffessional appearance as a first encounter the user will have with the website.
 
-I chose to use [Poppins](https://fonts.google.com/specimen/Poppins) as a main font for the webiste as it is a very clear and minimalistic font that can be easily read by the user. This will be very helpful especially when the prospective clients will read about the company, offering an easy read, without distracting the user from the goal of the project - registering and placing the order.
+I chose to use [POPPINS](https://fonts.google.com/specimen/Poppins) as a main font for the webiste as it is a very clear and minimalistic font that can be easily read by the user. This will be very helpful especially when the prospective clients will read about the company, offering an easy read, without distracting the user from the goal of the project - registering and placing the order.
 
-I chose to use [Baskervville](https://fonts.google.com/specimen/Baskervville) for sub-titles and navbar as, in my opinion, it's a bit more artistic font (still easy to read) and could seem a bit more friendly to the reader (user), comparing to a more simplistic and robotic font. The goal is to make the user feel more connected with the company, giving it a sense of familiarity.
+I chose to use [BASKERVVILLE](https://fonts.google.com/specimen/Baskervville) for sub-titles and navbar as, in my opinion, it's a bit more artistic font (still easy to read) and could seem a bit more friendly to the reader (user), comparing to a more simplistic and robotic font. The goal is to make the user feel more connected with the company, giving it a sense of familiarity.
 
-The combination of all three fonts used, in my opinion, gives the website a proffessioanal, clear and in the same time friendly aspect. 
+The combination of all three fonts used, in my opinion, gives the website a proffessional, clear and in the same time friendly aspect. 
 
 ### Icons:
 
@@ -77,6 +77,21 @@ The images I used in for the website are sourced from royalty free websites and 
 
 I built the wireframe for this project using [Balsamiq](https://balsamiq.com/). First I started with a basic structure and afterwords added the features and products display. During the building of the project I have change my mind severall times regarding the design and made few alterations, therefore the wireframe is slightly different than the final product. You can view my wireframe [here](https://github.com/Astig-1982/Milestone-coffee/blob/master/wireframes/Milestone-Project.pdf).
 You can also see the wireframe on gitpod in the 'wireframes' directory.
+
+## Technologies used:
+
+### Languages:
+
+* [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+* [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+
+### Tools & Libraries:
+
+* [jQuery](https://jquery.com/)
+* [Bootstrap](https://getbootstrap.com/)
+* [Font-Awesome](https://fontawesome.com/icons?d=gallery)
+* [Google Fonts](https://fonts.google.com/)
+
 
 
 
