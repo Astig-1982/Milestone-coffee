@@ -76,6 +76,9 @@ The images I used in for the website are sourced from royalty free websites and 
 ## Wireframes:
 
 I built the wireframe for this project using [Balsamiq](https://balsamiq.com/). First I started with a basic structure and afterwords added the features and products display. During the building of the project I have change my mind severall times regarding the design and made few alterations, therefore the wireframe is slightly different than the final product. You can view my wireframe [here](https://github.com/Astig-1982/Milestone-coffee/blob/master/wireframes/Milestone-Project.pdf).
+You can also see the wireframe on gitpod in the 'wireframes' directory.
+
+
 
 
 
