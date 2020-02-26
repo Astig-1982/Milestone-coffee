@@ -92,6 +92,15 @@ You can also see the wireframe on gitpod in the 'wireframes' directory.
 * [Font-Awesome](https://fontawesome.com/icons?d=gallery)
 * [Google Fonts](https://fonts.google.com/)
 
+## Testing:
+
+As this was my very first project and website created, my testing was thorough and in detail regarding every aspect. 
+
+## Testing Stories:
+
+* I have tested my **HTML** code using [The W3C Markup Validation Service](https://validator.w3.org/). It has found few small errors (like unclosed divs or bootstrap button element nested in anchor tags) which I've corrected immediately. It also issued 2 warnings of lacking headings to 'about-us' and 'products' sections. I have added heading to 'products' section. I left 'about-us' section without heading as I thought this section is pretty much self-explanatory and I wanted to keep a clean and simple design.
+* I have tested my **CSS** code using [CSS Validation Service](http://www.css-validator.org/). I am happy to announce it has found no errors.
+
 
 
 
