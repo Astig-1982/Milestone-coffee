@@ -100,6 +100,10 @@ As this was my very first project and website created, my testing was thorough a
 
 * I have tested my **HTML** code using [The W3C Markup Validation Service](https://validator.w3.org/). It has found few small errors (like unclosed divs or bootstrap button element nested in anchor tags) which I've corrected immediately. It also issued 2 warnings of lacking headings to 'about-us' and 'products' sections. I have added heading to 'products' section. I left 'about-us' section without heading as I thought this section is pretty much self-explanatory and I wanted to keep a clean and simple design.
 * I have tested my **CSS** code using [CSS Validation Service](http://www.css-validator.org/). I am happy to announce it has found no errors.
+* I was informed that my hero image (please see it [here](https://esprada.co.uk/wp-content/uploads/2018/06/books-break-coffee-927451-compressed-pexels-220618-min.jpg)) with which I wanted to submit the project wasn't very suggestive regarding the goal of the website. I've changed it with the current one (please see [here](https://albacoffee.com/wp-content/uploads/2018/09/OfficeCoffee1.jpg)) from which I had much better feedback, sending a more clear message about what the company is essentially selling - coffee.
+* I was informed that my products section wasn't suggestive enough in terms of what this section actually represents. Following this feedback, together with the warning issued by **W3C Validator** regarding lacking of some headings (please see above) I've added the explanatory heading to this section.
+* I was advised that using <br> in HTML coding is an old technic and not highly recommended. I have removed all <br> tags and replaced with alternatives (separate divs elements or have completely removed them).
+* The div element with the class "head-nav row" from the header section had default margins from bootstrap. Because of this, the entire website was too large to fit in the viewport (for all devices) and it had a left/right scroll. With the help of [DevTools](https://developers.google.com/web/tools/chrome-devtools) I have realised the error and set margins to 0 to the respective element.
 
 
 
