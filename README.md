@@ -47,7 +47,7 @@ Coffee-Project is a website of a fictional company 'Coffee Fresh' that delivers 
 
 ### Fonts:
 
-I chose to use Arial for the main title in order to keep a simple and proffessional appearance as a first encounter the user will have with the website.
+I chose to use [Arial](https://www.fonts.com/font/monotype/arial?QueryFontType=Web&src=GoogleWebFonts) for the main title in order to keep a simple and proffessional appearance as a first encounter the user will have with the website.
 
 I chose to use Poppins as a main font for the webiste as it is a very clear and minimalistic font that can be easily read by the user. This will be very helpful especially when the prospective clients will read about the company, offering an easy read, without distracting the user from the goal of the project - registering and placing the order.
 
@@ -63,11 +63,11 @@ I used the icon bar to display the classic ‘burger-button’ on tablet and mob
 
 I have used neutral colors for most of the project as I wanted to keep a proffessional appeareance. 
 
-   Primary: "A Shade Of Light Gray" rgba(191, 182, 166,.9) I chose this as a primary color in order to match with the hero image and give uniformity to the website. I used the specific hero image to highlight the type of clientele expected to navigate the website. Mostly will be offices, hence displaying a simple and suggestive image.
+   Primary: **A Shade Of Light Gray** rgba(191, 182, 166,.9) I chose this as a primary color in order to match with the hero image and give uniformity to the website. I used the specific hero image to highlight the type of clientele expected to navigate the website. Mostly will be offices, hence displaying a simple and suggestive image.
 
-  • Secondary: "Light Brown" rgb(214, 167, 87) I chose this color as it resembles the cream that a quality coffee comes with. It also matches the coffee cream from the hero image and provides a stark contrast with the primary color.
+  • Secondary: **Light Brown** rgb(214, 167, 87) I chose this color as it resembles the cream that a quality coffee comes with. It also matches the coffee cream from the hero image and provides a stark contrast with the primary color.
 
-  • Default body color: "White" #ffffff I chose to use white as I wanted to keep a simple and clear appearence for the website. This will make the user more focused on the products and services the company is providing.
+  • Default body color: **White** #ffffff I chose to use white as I wanted to keep a simple and clear appearence for the website. This will make the user more focused on the products and services the company is providing.
 
 ### Background:
 
