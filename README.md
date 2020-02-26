@@ -73,7 +73,9 @@ I have used neutral colors for most of the project as I wanted to keep a proffes
 
 The images I used in for the website are sourced from royalty free websites and they represent suggestive images of coffee and work being done on a laptop with a creammy coffee next to it. The products' images represent each product and its main use (e.g. the first product is ideal for cappuccinos and lattes, hence the suggestive image with 3 cappuccinos).
 
+## Wireframes:
 
+I built the wireframe for this project using [Balsamiq](https://balsamiq.com/). First I started with a basic structure and afterwords added the features and products display. During the building of the project I have change my mind severall times regarding the design and made few alterations, therefore the wireframe is slightly different than the final product. You can view my wireframe [here](https://github.com/Astig-1982/Milestone-coffee/blob/master/wireframes/Milestone-Project.pdf).
 
 
 
