@@ -11,35 +11,35 @@ Coffee-Project is a website of a fictional company 'Coffee Fresh' that delivers 
   The webbsite helps the company by providing the users an easy and intuitive way to register. It provides details regarding the products and a short description of the company's offerings.
 
 ### Users Goals:
-
-    • A website that serves as a tool to order speciality coffee all types of workplaces on a regular basis.
-    • Call to action available across all sections of the page in order the registering to be smooth and easy.
-    • Visual Interaction which include animated slides.
-    • Navbar availabe across and throughout all sections for a quick and easy navigation on the website.
-    • Registry form easy and intuitive for a quick and hassle free registration.
-    • Responsive interaction with the website on desktop, table and mobile.
-
+    
+* A website that serves as a tool to order speciality coffee all types of workplaces on a regular basis.
+* Call to action available across all sections of the page in order the registering to be smooth and easy.
+* Visual Interaction which include animated slides.
+* Navbar availabe across and throughout all sections for a quick and easy navigation on the website.
+* Registry form easy and intuitive for a quick and hassle free registration.
+* Responsive interaction with the website on desktop, table and mobile.
+    
 ### Users Stories:
 
-    • As a user I want to read few words about the company and what it provides.
-    • As a user I want a a clear and simple design so I can easily navigate on the page.
-    • As a user I want to easily navigate on the website, so I can choose my next action.
-    • As a user I want an easy access to the company's products.
-    • As a user I want to see the side navigation by default.
-    • As a user I want to easily be able to access the registration form from any location on the website.
-    • As a user I want a clear and intuitive registration form.
-    • As a user I want to easily submit mine or my company's details, so I can order.
-    • As a user I want to have access to the company's (Coffee Fresh) phone number.
-    • As a user I want to have access to the company's (Coffee Fresh) email address.
-    • As a user I want to have access to the company's (Coffee Fresh) home address.
-    • As a user I want to have access to the company's (Coffee Fresh) social pages.
+* As a user I want to read few words about the company and what it provides.
+* As a user I want a a clear and simple design so I can easily navigate on the page.
+* As a user I want to easily navigate on the website, so I can choose my next action.
+* As a user I want an easy access to the company's products.
+* As a user I want to see the side navigation by default.
+* As a user I want to easily be able to access the registration form from any location on the website.
+* As a user I want a clear and intuitive registration form.
+* As a user I want to easily submit mine or my company's details, so I can order.
+* As a user I want to have access to the company's (Coffee Fresh) phone number.
+* As a user I want to have access to the company's (Coffee Fresh) email address.
+* As a user I want to have access to the company's (Coffee Fresh) home address.
+* As a user I want to have access to the company's (Coffee Fresh) social pages.
 
 ### Site Owners Glaos:
 
-    • Generate new costumers and sell theri products mainly through this website.
-    • Collecting data regarding the type of companies interested in this kind of service.
-    • Estimating the demand of their products on a regular basis, depending on the size of the company (how much coffee they can sell per month to a company having an "X" amount of employees).
-    • Receive contact details through use of contact form. 
+* Generate new costumers and sell theri products mainly through this website.
+* Collecting data regarding the type of companies interested in this kind of service.
+* Estimating the demand of their products on a regular basis, depending on the size of the company (how much coffee they can sell per month to a company having an "X" amount of employees).
+* Receive contact details through use of contact form. 
 
 ## Design Choices:
 
@@ -63,11 +63,11 @@ I used the icon bar to display the classic ‘burger-button’ on tablet and mob
 
 I have used neutral colors for most of the project as I wanted to keep a proffessional appeareance. 
 
-   Primary: **A Shade Of Light Gray** rgba(191, 182, 166,.9) I chose this as a primary color in order to match with the hero image and give uniformity to the website. I used the specific hero image to highlight the type of clientele expected to navigate the website. Mostly will be offices, hence displaying a simple and suggestive image.
+  * Primary: **A Shade Of Light Gray** rgba(191, 182, 166,.9) I chose this as a primary color in order to match with the hero image and give uniformity to the website. I used the specific hero image to highlight the type of clientele expected to navigate the website. Mostly will be offices, hence displaying a simple and suggestive image.
 
-  • Secondary: **Light Brown** rgb(214, 167, 87) I chose this color as it resembles the cream that a quality coffee comes with. It also matches the coffee cream from the hero image and provides a stark contrast with the primary color.
+  * Secondary: **Light Brown** rgb(214, 167, 87) I chose this color as it resembles the cream that a quality coffee comes with. It also matches the coffee cream from the hero image and provides a stark contrast with the primary color.
 
-  • Default body color: **White** #ffffff I chose to use white as I wanted to keep a simple and clear appearence for the website. This will make the user more focused on the products and services the company is providing.
+  * Default body color: **White** #ffffff I chose to use white as I wanted to keep a simple and clear appearence for the website. This will make the user more focused on the products and services the company is providing.
 
 ### Background:
 
@@ -104,6 +104,7 @@ As this was my very first project and website created, my testing was thorough a
 * I was informed that my products section wasn't suggestive enough in terms of what this section actually represents. Following this feedback, together with the warning issued by **W3C Validator** regarding lacking of some headings (please see above) I've added the explanatory heading to this section.
 * I was advised that using <br> in HTML coding is an old technic and not highly recommended. I have removed all <br> tags and replaced with alternatives (separate divs elements or have completely removed them).
 * The div element with the class "head-nav row" from the header section had default margins from bootstrap. Because of this, the entire website was too large to fit in the viewport (for all devices) and it had a left/right scroll. With the help of [DevTools](https://developers.google.com/web/tools/chrome-devtools) I have realised the error and set margins to 0 to the respective element.
+
 
 
 
