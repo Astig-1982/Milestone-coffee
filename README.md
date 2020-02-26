@@ -49,9 +49,9 @@ Coffee-Project is a website of a fictional company 'Coffee Fresh' that delivers 
 
 I chose to use [Arial](https://www.fonts.com/font/monotype/arial?QueryFontType=Web&src=GoogleWebFonts) for the main title in order to keep a simple and proffessional appearance as a first encounter the user will have with the website.
 
-I chose to use Poppins as a main font for the webiste as it is a very clear and minimalistic font that can be easily read by the user. This will be very helpful especially when the prospective clients will read about the company, offering an easy read, without distracting the user from the goal of the project - registering and placing the order.
+I chose to use [Poppins](https://fonts.google.com/specimen/Poppins) as a main font for the webiste as it is a very clear and minimalistic font that can be easily read by the user. This will be very helpful especially when the prospective clients will read about the company, offering an easy read, without distracting the user from the goal of the project - registering and placing the order.
 
-I chose to use Baskervville for sub-titles and navbar as, in my opinion, it's a bit more artistic font (still easy to read) and could seem a bit more friendly to the reader (user), comparing to a more simplistic and robotic font. The goal is to make the user feel more connected with the company, giving it a sense of familiarity.
+I chose to use [Baskervville](https://fonts.google.com/specimen/Baskervville) for sub-titles and navbar as, in my opinion, it's a bit more artistic font (still easy to read) and could seem a bit more friendly to the reader (user), comparing to a more simplistic and robotic font. The goal is to make the user feel more connected with the company, giving it a sense of familiarity.
 
 The combination of all three fonts used, in my opinion, gives the website a proffessioanal, clear and in the same time friendly aspect. 
 
