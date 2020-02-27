@@ -103,7 +103,19 @@ As this was my very first project and website created, my testing was thorough a
 * I was informed that my hero image (please see it [here](https://esprada.co.uk/wp-content/uploads/2018/06/books-break-coffee-927451-compressed-pexels-220618-min.jpg)) with which I wanted to submit the project innitally wasn't very suggestive regarding the goal of the website. I've changed it with the current one (please see [here](https://albacoffee.com/wp-content/uploads/2018/09/OfficeCoffee1.jpg)) from which I had much better feedback, sending a more clear message about what the company is essentially selling - coffee.
 * I was informed that my products section wasn't suggestive enough in terms of what this section actually represents. Following this feedback, together with the warning issued by **W3C Validator** regarding lacking of some headings (please see above) I've added the explanatory heading to this section.
 * I was advised that using *br* tags (line break) in HTML coding is an old technic and not highly recommended. I have removed all *br* tags and replaced with alternatives (separate divs elements or have completely removed them).
-* The div element with the class "head-nav row" from the header section had default margins from bootstrap. Because of this, the entire website was too large to fit in the viewport (for all devices) and it had a left/right scroll. With the help of [DevTools](https://developers.google.com/web/tools/chrome-devtools) I realised where is the error and set margins to 0 to the respective element.
+* The div element with the class "head-nav row" from the header section had default margins from bootstrap. Because of this, the entire website was too large to fit in the viewport (for all devices) and it had a horizontal scroll. With the help of [DevTools](https://developers.google.com/web/tools/chrome-devtools) I realised where is the error and set margins to 0 to the respective element.
+
+### Overall:
+
+#### Responsivness:
+
+I knew that the project needed to be fully responsive on all types of screen, especially mobile friendly. In order to accomplish this requirement I used Bootstrap as HTML framework, this option being the one that I'm most comfortable using at the moment. I've carried the testing using dev-tools throughout and a final test after the completion. 
+
+#### Result:
+
+The website is fully responsive as expected, all elements and content fit within their boundaries and are easy to see on any device.
+
+
 
 
 
