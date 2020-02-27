@@ -34,7 +34,7 @@ Coffee-Project is a website of a fictional company 'Coffee Fresh' that delivers 
 * As a user I want to have access to the company's (Coffee Fresh) home address.
 * As a user I want to have access to the company's (Coffee Fresh) social pages.
 
-### Site Owners Glaos:
+### Site Owners Goals:
 
 * Generate new costumers and sell theri products mainly through this website.
 * Collecting data regarding the type of companies interested in this kind of service.
