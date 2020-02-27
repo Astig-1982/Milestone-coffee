@@ -61,7 +61,7 @@ I used the icon bar to display the classic ‘burger-button’ on tablet and mob
 
 ### Colors:
 
-I have used neutral colors for most of the project as I wanted to keep a proffessional appeareance. 
+I have used neutral colors for most of the project as I wanted to keep a proffessional appearance. 
 
   * Primary: **A Shade Of Light Gray** rgba(191, 182, 166,.9) I chose this as a primary color in order to match with the hero image and give uniformity to the website. I used the specific hero image to highlight the type of clientele expected to navigate the website. Mostly will be offices, hence displaying a simple and suggestive image.
 
