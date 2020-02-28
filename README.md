@@ -1,6 +1,6 @@
 # The Coffee Project
 
-Coffee-Project is a website of a fictional company 'Coffee Fresh' that delivers coffee to the workplace. 
+The-Coffee-Project is a website of a fictional company 'Coffee Fresh' that delivers coffee to the workplace. 
 
 ## UX
 
