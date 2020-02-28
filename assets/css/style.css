@@ -75,7 +75,7 @@ body {
     height: 60px;
     background: url(https://www.creativefabrica.com/wp-content/uploads/2018/10/Coffee-Tea-logo-by-Friendesign-Acongraphic-580x386.jpg
 ) center center/cover no-repeat;
-    border-radius: 5px;
+    border-radius: .3rem;
     opacity: .6;
 }
 
@@ -139,6 +139,7 @@ body {
     font-weight: 300;
     text-decoration: none;
 	padding: .3rem 1.1rem;
+    border-radius: .3rem;
     -webkit-transition-property: background-color;
 	-webkit-transition-duration: .5s;
 	-webkit-transition-timing-function: ease;
@@ -150,7 +151,7 @@ body {
 	transition-timing-function: ease;
 }
 
-.large-button div:hover{
+#large-button:hover {
 	background: rgba(0,0,0,.5);
 }
 
