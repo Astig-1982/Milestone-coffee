@@ -159,7 +159,7 @@ body {
 
 /* about page starts here */
 
-.about {
+.about-us {
 	min-height: 75vh;
 	min-width: 100%;
     box-sizing: border-box;
@@ -167,7 +167,7 @@ body {
     padding-bottom: 3rem;	
 }
 
-.about-us {
+.company-goals {
     margin: 0 auto;
 }
 
@@ -555,7 +555,7 @@ body {
 }
 
  @media (min-width: 1024px) {
-     .about-us {
+     .company-goals {
          width: 60%;
      }
  }
