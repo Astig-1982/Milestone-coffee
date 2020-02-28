@@ -123,15 +123,13 @@ body {
 
 /* landing-page register button */
 
-.large-button {
-	text-align: center;
-}
 
-.large-button a {
-	text-decoration: none;
-}
 
-.large-button div {
+
+	
+
+
+#large-button {
 	width: 8rem;
 	margin: 0 auto;
 	color: #ffffff;
@@ -139,7 +137,8 @@ body {
     background: rgb(214, 167, 87);
 	font-size: 1.5rem;
     font-weight: 300;
-	padding: 2px 5px;
+    text-decoration: none;
+	padding: .3rem 1.1rem;
     -webkit-transition-property: background-color;
 	-webkit-transition-duration: .5s;
 	-webkit-transition-timing-function: ease;
