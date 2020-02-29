@@ -160,15 +160,29 @@ Using **Bootstrap** in HTML5 was the easiest way to implement this feature. Afte
 
 ## Bugs:
 
-
-
 During the development of this project I was fortunate enought not to encounter many bugs. One annoyng bug that I had to deal with is the one listed below:
 
 ### Unexpected horizontal scroll:
 
 * The div element with the class "head-nav row" from the header section had default margins from bootstrap. Because of this, the entire website was too large to fit in the viewport (for all devices) and it had a horizontal scroll. With the help of [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB) I realised where is the error and set margins to 0 to the respective element.
 
+As far as I know there are no others known bugs.
 
+## Deployment:
+
+The Coffee Project was developed on GitPod, using git and GitHub to host the repository.
+
+I have made the following steps during the deployment of The Coffee Project using GitHub:
+
+* Opened up **GitHub** in the browser.
+* Signed in using username and password.
+* Selected my repositories.
+* Navigated to '/Astig-1982/The-Coffee-Project.
+* In the top navigation clicked **'settings'**.
+* Scrolled down to the **GitHub Pages** area.
+* Selected **'Master Branch'** from the **'Source'** dropdown mennu.
+* Clicked to confirm my selection.
+* The-Coffee-Project is now live on GitHub Pages.
 
 
 
