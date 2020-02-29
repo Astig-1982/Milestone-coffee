@@ -169,7 +169,7 @@ During the development of this project I was fortunate enought not to encounter 
 
 ### Known Bug:
 
-* There is a bug at IOS mobiles' and tablets' devices. The navbar is fixed, but for whatever reason it shows up in the middle of the viewport. This affects the landing page section. None of the other sections are affected, the rest works as expected, but with the navbar in the middle. When using DevTools to simulate how the site is responsive on all devices everything works as expected, there is no sign of the respective bug. As well, the bug doesn't affect android devices, everything seems to be working as expected. Only on IOS. I am working to fix the bug and I am quite confident I will sort it out asap.
+* There is a bug at IOS mobiles' and tablets' devices. The navbar is fixed, but for whatever reason it shows up in the middle of the viewport. This affects the landing page section. None of the other sections are affected, the rest works as expected, but with the navbar in the middle. When using DevTools to simulate how the site is responsive on all devices everything works as expected, there is no sign of the respective bug. As well, the bug doesn't affect android devices, everything seems to be working as expected on any device using android. Only on IOS. I am working to fix the bug and I am quite confident I will sort it out asap.
 
 There are no others known bugs.
 
