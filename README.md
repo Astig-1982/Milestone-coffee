@@ -168,7 +168,9 @@ During the development of this project I was fortunate enought not to encounter 
 
 ### Known Bug:
 
-* There is a bug at IOS mobiles' and tablets' devices at the landing page. The navbar is fixed, but for whatever reason is in the middle of the landing page. This effects the whole section. None of the other sections are affected, the rest works as expected. When using DevTools to simulate how the site is responsive on all devices everything works as expected, there is no sign of the respective bug. As well, the bug doesn't affect android devices, everythig seems to be working as expected. I am working to fix the bug and I am quite confident I'll manage to fixed it in the nearest future.
+* There is a bug at IOS mobiles' and tablets' devices at the landing page. The navbar is fixed, but for whatever reason it shows up in the middle of the landing page. This effects the whole section. None of the other sections are affected, the rest works as expected. When using DevTools to simulate how the site is responsive on all devices everything works as expected, there is no sign of the respective bug. As well, the bug doesn't affect android devices, everything seems to be working as expected. I am working to fix the bug and I am quite confident I'll manage to fixed it in the nearest future.
+
+There are no others known bugs.
 
 ## Deployment:
 
@@ -185,6 +187,11 @@ I have made the following steps during the deployment of The Coffee Project usin
 * Selected **'Master Branch'** from the **'Source'** dropdown mennu.
 * Clicked to confirm my selection.
 * The-Coffee-Project is now live on GitHub Pages.
+
+## Credits:
+
+* [The Psychology of Color](https://www.helpscout.com/blog/psychology-of-color/)
+* [Unicorn](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB)
 
 
 
