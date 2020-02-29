@@ -180,6 +180,7 @@ The Coffee Project was developed on GitPod, using git and GitHub to host the rep
 I have made the following steps during the deployment of The Coffee Project using GitHub:
 
 * Opened up **GitHub** in the browser.
+
 * Signed in using username and password.
 * Selected my repositories.
 * Navigated to '/Astig-1982/The-Coffee-Project.
@@ -194,15 +195,15 @@ I have made the following steps during the deployment of The Coffee Project usin
 Cloning The-Coffee-Project from GitHub:
 
 * Navigate to **'/Astig-1982/The-Coffee-Project'**.
-* Click the green **'Clone or Download'** button.
+* Click the green **Clone or Downloand** button.
 * Copy the url in the dropdown box.
 * Using your preffered **IDE** open up your preferred terminal.
 * Navigate to your desired file location.
 * Copy the following **code** and input it into your terminal to clone Holiday Destinations.
-
-        git clone https://github.com/Astig-1982/The-Coffee-Project.git
-       
-        
+ 
+         git clone https://github.com/Astig-1982/The-Coffee-Project.git 
+      
+          
 ## Credits:
 
 * [The Psychology of Color](https://www.helpscout.com/blog/psychology-of-color/)
