@@ -195,6 +195,10 @@ I have made the following steps during the deployment of The Coffee Project usin
 * [Unicorn](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB)
 * [Tinypng](https://tinypng.com/)
 
+### Content:
+
+The text from the second line from 'about-us' section' (starting 'Not only a cup of coffee..) was copied from [orderin.com.au](https://www.orderin.com.au/resources/blog/2017/benefits-to-corporate-coffee-solution-in-office).
+
 ### Media:
 
 * The hero image for this project was obtained from [albacoffee.com](https://albacoffee.com/wp-content/uploads/2018/09/OfficeCoffee1.jpg).
