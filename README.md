@@ -193,6 +193,14 @@ I have made the following steps during the deployment of The Coffee Project usin
 * [The Psychology of Color](https://www.helpscout.com/blog/psychology-of-color/)
 * [Unicorn](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB)
 
+### Media:
+
+* The hero image for this project was obtained from [albacoffee.com](https://albacoffee.com/).
+* The logo image for this project was obtained from [creativefabrica.com](https://www.creativefabrica.com/)
+* The image for the 'Brasil Mantiquiera' item was obtained from [cocoarunners](https://cocoarunners-assets.s3.amazonaws.com/uploads/2019/12/Coffee-Sub-II.jpg)
+* The image for the 'Blackcode Espresso' item was obtained from [laboratorioespresso.it](https://laboratorioespresso.it/en/)
+* The image for the 'East Timor Duhoho' item was obtained from [post.healthline.com](https://post.healthline.com/) 
+
 
 
 
