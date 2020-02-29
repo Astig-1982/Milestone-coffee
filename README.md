@@ -166,7 +166,9 @@ During the development of this project I was fortunate enought not to encounter 
 
 * The div element with the class "head-nav row" from the header section had default margins from bootstrap. Because of this, the entire website was too large to fit in the viewport (for all devices) and it had a horizontal scroll. With the help of [Unicorn Revealer](https://chrome.google.com/webstore/detail/unicorn-revealer/lmlkphhdlngaicolpmaakfmhplagoaln?hl=en-GB) I realised where is the error and set margins to 0 to the respective element.
 
-As far as I know there are no others known bugs.
+### Known Bug:
+
+* There is a bug at IOS mobiles' and tablets' devices at the landing page. The navbar is fixed, but for whatever reason is in the middle of the landing page. This effects the whole section. None of the other sections are affected, the rest works as expected. When using DevTools to simulate how the site is responsive on all devices everything works as expected, there is no sign of the respective bug. As well, the bug doesn't affect android devices, everythig seems to be working as expected. I am working to fix the bug and I am quite confident I'll manage to fixed it in the nearest future.
 
 ## Deployment:
 
@@ -183,6 +185,8 @@ I have made the following steps during the deployment of The Coffee Project usin
 * Selected **'Master Branch'** from the **'Source'** dropdown mennu.
 * Clicked to confirm my selection.
 * The-Coffee-Project is now live on GitHub Pages.
+
+
 
 
 
