@@ -187,8 +187,22 @@ I have made the following steps during the deployment of The Coffee Project usin
 * Scrolled down to the **GitHub Pages** area.
 * Selected **'Master Branch'** from the **'Source'** dropdown mennu.
 * Clicked to confirm my selection.
-* The-Coffee-Project is now live on GitHub Pages.
+* The-Coffee-Project is now live on GitHub Page.
 
+### Running The-Coffee-Project locally
+
+Cloning The-Coffee-Project from GitHub:
+
+* Navigate to **'/Astig-1982/The-Coffee-Project'**.
+* Click the green **'Clone or Download'** button.
+* Copy the url in the dropdown box.
+* Using your preffered **IDE** open up your preferred terminal.
+* Navigate to your desired file location.
+* Copy the following **code** and input it into your terminal to clone Holiday Destinations.
+
+        git clone https://github.com/Astig-1982/The-Coffee-Project.git
+       
+        
 ## Credits:
 
 * [The Psychology of Color](https://www.helpscout.com/blog/psychology-of-color/)
