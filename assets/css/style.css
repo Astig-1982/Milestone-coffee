@@ -126,7 +126,7 @@ body {
     font-weight: 300;
     text-decoration: none;
 	padding: .3rem 1.1rem;
-    border-radius: .3rem;
+    border-radius: .2rem;
     -webkit-transition-property: background-color;
 	-webkit-transition-duration: .5s;
 	-webkit-transition-timing-function: ease;
@@ -361,7 +361,6 @@ body {
 	margin: 0;
 	padding: 0;
 }
-
 
 #contact-us-title {
 	text-align: center;
