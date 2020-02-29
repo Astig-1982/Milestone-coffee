@@ -115,6 +115,23 @@ I knew that the project needed to be fully responsive on all types of screen, es
 
 The website is fully responsive as expected, all elements and content fit within their boundaries and are easy to see on any device.
 
+## Features:
+
+* Animated products display
+* Scroll Website
+* Fixed Navbar
+* Form Validation
+* Bruger Menu for mobile and tablets
+
+### Animated products display:
+
+I decided to use the sliding animation at products section to make the website a bit more interactive and in the same time I believe it provides an easy way for the user to read few essentials details about each product.
+
+#### Implementation:
+
+I used standard CSS code to make the slide activ using the transition property and modifying height property of the sliding element at hover. Regarding the transition duration, after few tests I've decided that .5s is optimal. It provides a nice and smooth effect and in the same time is also practical for the user.
+
+
 
 
 
