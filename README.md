@@ -103,6 +103,7 @@ As this was my very first project and website created, my testing was thorough a
 * I was informed that my hero image (please see it [here](https://esprada.co.uk/wp-content/uploads/2018/06/books-break-coffee-927451-compressed-pexels-220618-min.jpg)) with which I wanted to submit the project innitally wasn't very suggestive regarding the goal of the website. I've changed it with the current one (please see [here](https://albacoffee.com/wp-content/uploads/2018/09/OfficeCoffee1.jpg)) from which I had much better feedback, sending a more clear message about what the company is essentially selling - coffee.
 * I was informed that my products section wasn't suggestive enough in terms of what this section actually represents. Following this feedback, together with the warning issued by **W3C Validator** regarding lacking of some headings (please see above) I've added the explanatory heading to this section.
 * I was advised that using *br* tags (line break) in HTML coding is an old technic and not highly recommended. I have removed all *br* tags and replaced with alternatives (separate divs elements or have completely removed them).
+* I notice that the image for the second item at products (Blackcode Espresso) is too large (2,910,746 bytes), which would've slowed down the website's page speed and consequently influenced in a negative way the users's experience. Using [Tinypng](https://tinypng.com/) I've reduced the size to 513,706 bytes.
 
 ### Overall:
 
