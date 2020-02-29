@@ -129,7 +129,34 @@ I decided to use the sliding animation at products section to make the website a
 
 #### Implementation:
 
-I used standard CSS code to make the slide activ using the transition property and modifying height property of the sliding element at hover. Regarding the transition duration, after few tests I've decided that .5s is optimal. It provides a nice and smooth effect and in the same time is also practical for the user.
+I used standard CSS code to make the slide active using the transition property and modifying height property of the sliding element at hover. Regarding the transition duration, after few tests I've decided that .5s is optimal. It provides a nice and smooth effect and in the same time is also practical for the user.
+
+### Scroll Website:
+
+Having only three products for the time being and offering a very straight forward service - essentially selling coffee - I thought the best approach for this project is to do a one page webiste. In this way it will be simpler and clearer for the user to navigate through the website's features and it provides easy access to the register form (from where you can place the order).
+
+#### Implementation:
+
+It was wasy to make this project a scrolling website by simply creating 5 sections (landing page, about-us section, products section, contact-us section and company details plus social links section). All the sections can be easily access from anywhere on the website using the fixed navbar menu or severall internal links and call to action buttons).
+
+### Fixed Navbar:
+
+I thought about it as an easy way to navigate to the main sections from anywhere you currently are on the site. This makes for a better user experience and a quicker way for the user to register.
+
+### Form Validation:
+
+Including some sort of form validation on the contact form is essential as - among others - helps the user not to miss sending important data about him/her self and making the order or even the delivery (of the product) proccess take longer that expected.
+
+#### Implementation:
+
+I've implemented this feature by adding the 'required' attributte to the form in HTML5. This was very simple and worked as expected. 
+
+
+
+
+
+
+
 
 
 
