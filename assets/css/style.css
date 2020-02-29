@@ -19,7 +19,7 @@ body {
 	min-height: 100vh;
 	min-width: 100%;
     box-sizing: border-box;
-	background: url(https://albacoffee.com/wp-content/uploads/2018/09/OfficeCoffee1.jpg) 4% 20%/cover no-repeat rgba(255,255,255,0.1);
+	background: url(../images/Hero-Image.jpg) 4% 20%/cover no-repeat rgba(255,255,255,0.1);
     background-blend-mode: lighten;
 	text-align: center;
 }
@@ -69,8 +69,7 @@ body {
     margin: 0 0 0 1rem;
     width: 60px;
     height: 60px;
-    background: url(https://www.creativefabrica.com/wp-content/uploads/2018/10/Coffee-Tea-logo-by-Friendesign-Acongraphic-580x386.jpg
-) center center/cover no-repeat;
+    background: url(../images/Logo.jpg) center center/cover no-repeat;
     border-radius: .3rem;
     opacity: .6;
 }
@@ -252,15 +251,15 @@ body {
 /* products images */
 
 #Brasil-Mantiquiera {
-	background-image: url(https://cocoarunners-assets.s3.amazonaws.com/uploads/2019/12/Coffee-Sub-II.jpg);	
+	background-image: url(../images/Brasil-Mantiquiera.jpg);	
 }
 
 #Blackcode-Espresso {
-	background-image: url(https://laboratorioespresso.it/wp-content/uploads/2018/09/Noetica-Blog-Immagini-Vetro-o-tazzina-1-Adobe-Stock.jpeg);	
+	background-image: url(../images/Blackcode-Espresso.jpg);	
 }
 
 #East-Timor-Duhoho {
-	background-image: url(https://post.healthline.com/wp-content/uploads/2019/04/green-coffee-bean-weight-loss_thumb.jpg);
+	background-image: url(../images/East-Timor-Duhoho.jpg);
 }
 
 /* prooducts images end here */
