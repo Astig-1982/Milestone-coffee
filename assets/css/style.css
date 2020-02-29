@@ -341,11 +341,20 @@ body {
 	color: #ffffff;
     border: 1px solid #ffffff;
     padding: 5px;
+    -webkit-transition-property: background-color;
+	-webkit-transition-duration: .5s;
+	-webkit-transition-timing-function: ease;
+	-moz-transition-property: background-color;
+	-moz-transition-duration: .5s;
+	-moz-transition-timing-function: ease;
+	transition-property: background-color;
+	transition-duration: .5s;
+	transition-timing-function: ease;
 }
 
 .order-button:hover {
-	color: rgb(201, 4, 4);
-    border: 1px solid rgb(201, 4, 4);
+    background: rgb(214, 167, 87);
+    color: #ffffff;
     text-decoration: none;
 }
 
