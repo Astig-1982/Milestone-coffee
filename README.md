@@ -121,7 +121,7 @@ The website is fully responsive as expected, all elements and content fit within
 * Scroll Website
 * Fixed Navbar
 * Form Validation
-* Bruger Menu for mobile and tablets
+* Burger Menu for mobile and tablets
 
 ### Animated products display:
 
@@ -150,6 +150,14 @@ Including some sort of form validation on the contact form is essential as - amo
 #### Implementation:
 
 I've implemented this feature by adding the 'required' attributte to the form in HTML5. This was very simple and worked as expected. 
+
+### Burger Menu for mobile and tablets:
+
+In order to enhance the experience for mobile and tablet users, I planned to include a common burger menu, which is preety much standard in the industry.
+
+#### Implementation:
+
+Using **Bootstrap** in HTML5 was the easiest way to implement this feature. Afterwords I've modified the color and the position (floating right instead of displaying it in the center), overriding the Bootstrap default with simple CSS.
 
 
 
