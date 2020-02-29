@@ -187,7 +187,7 @@ I have made the following steps during the deployment of The Coffee Project usin
 * Scrolled down to the **GitHub Pages** area.
 * Selected **'Master Branch'** from the **'Source'** dropdown mennu.
 * Clicked to confirm my selection.
-* The-Coffee-Project is now live on GitHub Page.
+* The-Coffee-Project is now live on GitHub Pages.
 
 ### Running The-Coffee-Project locally
 
