@@ -199,7 +199,7 @@ Cloning The-Coffee-Project from GitHub:
 * Copy the url in the dropdown box.
 * Using your preffered **IDE** open up your preferred terminal.
 * Navigate to your desired file location.
-* Copy the following **code** and input it into your terminal to clone Holiday Destinations.
+* Copy the following **code** and input it into your terminal to clone The Coffee Project.
  
          git clone https://github.com/Astig-1982/The-Coffee-Project.git 
       
